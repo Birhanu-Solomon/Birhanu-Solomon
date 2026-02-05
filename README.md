@@ -14,7 +14,7 @@ I am an aspiring **Flutter Developer** focused on building clean, functional, an
 - **State Management:** Provider
 
 ## 📫 Connect with me:
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/birhanu-solomon-0502a1312/
 - **Email:** birhanukeranyo@gmail.com
 
 ---
