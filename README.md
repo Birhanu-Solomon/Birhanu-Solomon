@@ -8,9 +8,9 @@ I am an aspiring **Flutter Developer** focused on building clean, functional, an
 - [TaskFlow](link) - Local Databases (Coming Soon).
 
 ## 🛠 Tech Stack
-- **Languages:** Dart, HTML/CSS, JavaScript
+- **Languages:** Dart, HTML/CSS, JavaScript, Java, Python
 - **Frameworks:** Flutter (Mobile & Web)
-- **Tools:** Git, GitHub, VS Code, Postman (for APIs)
+- **Tools:** Git, GitHub, VS Code, Android Studio
 - **State Management:** Provider
 
 ## 📫 Connect with me:
@@ -18,4 +18,4 @@ I am an aspiring **Flutter Developer** focused on building clean, functional, an
 - **Email:** birhanukeranyo@gmail.com
 
 ---
-*"Building 5 projects in 14 days for internship readiness."*
+
